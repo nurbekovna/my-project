@@ -1,0 +1,1 @@
+URL = "https://www.bazar.kg/kyrgyzstan/elektronika/kompyutery/noutbuki"
